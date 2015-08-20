@@ -1,4 +1,4 @@
-(defproject kanar-app "0.1.0-SNAPSHOT"
+(defproject {{name}} "0.1.0-SNAPSHOT"
   :description "Kanar based SSO application."
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
